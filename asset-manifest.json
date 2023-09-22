@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.3b1ab115.chunk.css",
-    "main.js": "./static/js/main.9f9e0f32.chunk.js",
-    "main.js.map": "./static/js/main.9f9e0f32.chunk.js.map",
+    "main.css": "./static/css/main.4522a9d9.chunk.css",
+    "main.js": "./static/js/main.b4c8b102.chunk.js",
+    "main.js.map": "./static/js/main.b4c8b102.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/css/2.fa88ec36.chunk.css": "./static/css/2.fa88ec36.chunk.css",
-    "static/js/2.81074444.chunk.js": "./static/js/2.81074444.chunk.js",
-    "static/js/2.81074444.chunk.js.map": "./static/js/2.81074444.chunk.js.map",
+    "static/css/2.0fb42c8c.chunk.css": "./static/css/2.0fb42c8c.chunk.css",
+    "static/js/2.2d6fa78c.chunk.js": "./static/js/2.2d6fa78c.chunk.js",
+    "static/js/2.2d6fa78c.chunk.js.map": "./static/js/2.2d6fa78c.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/2.fa88ec36.chunk.css.map": "./static/css/2.fa88ec36.chunk.css.map",
-    "static/css/main.3b1ab115.chunk.css.map": "./static/css/main.3b1ab115.chunk.css.map",
-    "static/js/2.81074444.chunk.js.LICENSE.txt": "./static/js/2.81074444.chunk.js.LICENSE.txt",
+    "static/css/2.0fb42c8c.chunk.css.map": "./static/css/2.0fb42c8c.chunk.css.map",
+    "static/css/main.4522a9d9.chunk.css.map": "./static/css/main.4522a9d9.chunk.css.map",
+    "static/js/2.2d6fa78c.chunk.js.LICENSE.txt": "./static/js/2.2d6fa78c.chunk.js.LICENSE.txt",
     "static/media/Accessories.b914f412.png": "./static/media/Accessories.b914f412.png",
     "static/media/ButtonBack.scss": "./static/media/Arrow.a8e610bf.svg",
     "static/media/HistoryLocation.scss": "./static/media/Home.aa940014.svg",
@@ -19,7 +19,9 @@
     "static/media/main.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
     "static/media/Phones.8478b80a.png": "./static/media/Phones.8478b80a.png",
     "static/media/Tablets.ed3dd9df.png": "./static/media/Tablets.ed3dd9df.png",
-    "static/media/Banner.scss": "./static/media/banner-iphone.520dc249.png",
+    "static/media/banner-accessories.9ea6ba5b.png": "./static/media/banner-accessories.9ea6ba5b.png",
+    "static/media/banner-ipad.b998b166.png": "./static/media/banner-ipad.b998b166.png",
+    "static/media/banner-iphone.520dc249.png": "./static/media/banner-iphone.520dc249.png",
     "static/media/CartItem.scss": "./static/media/icon-plus.dea15724.svg",
     "static/media/icon-cart.1beda4df.svg": "./static/media/icon-cart.1beda4df.svg",
     "static/media/Search.scss": "./static/media/icon-search.66a1fd86.svg",
@@ -28,9 +30,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/css/2.fa88ec36.chunk.css",
-    "static/js/2.81074444.chunk.js",
-    "static/css/main.3b1ab115.chunk.css",
-    "static/js/main.9f9e0f32.chunk.js"
+    "static/css/2.0fb42c8c.chunk.css",
+    "static/js/2.2d6fa78c.chunk.js",
+    "static/css/main.4522a9d9.chunk.css",
+    "static/js/main.b4c8b102.chunk.js"
   ]
 }
